@@ -1,189 +1,153 @@
 # The American Hypnotist — Self-Hypnosis Program Structure Spec
 
-Version 1.0 · 2026-07-08
-Scope: structure only. No scripts, no session copy, no marketing copy.
+Version 2.0 · 2026-07-08
+Scope: structure and delivery. No scripts, no session copy, no marketing copy.
 Covers: Language Learning · Stop Doomscrolling · FOMO · Pregame-Postgame.
+
+v2.0 changes: program size cut to Edmund's counts (3–4 full Sittings, 3
+Encores, 2 Standbys, The Keeper closes every program). Delivery/iPhone UX
+promoted to a core section. Unlock gating simplified to match the smaller
+skeleton.
 
 ---
 
 ## 0. The premise everything follows from
 
-A buyer pays once and keeps it forever. That purchase has to survive two tests:
+A buyer pays once and keeps it forever. The purchase has to survive two tests:
 
 - **Day 1:** "This is substantial. This is built. This is him."
 - **Day 90:** "I still open this. It changed something."
 
-Hypnotic suggestion consolidates through **spaced repetition of a small set of
-sessions**, not through volume. Twenty hours of audio is a library; a designed
-21-day protocol is a program. So the skeleton is deliberately small — about
-2¼ hours of hypnosis audio per program — and every minute is assigned a place
-in a protocol. Substance comes from design, not duration.
+Hypnotic suggestion consolidates through **spaced repetition of a small set
+of sessions**, not through volume. Nine tracks per program is enough —
+substance comes from the protocol, not the runtime. The lean size is a
+feature: it photographs as finishable, and finished programs get
+recommended.
 
-The differentiation is face-first. So video is used exactly where a face
-matters — the walk-in, the check-in, the send-off — and never inside the
-hypnosis audio itself, where eyes are closed anyway.
+The differentiation is face-first. Video is used exactly where a face
+matters — the walk-in, one check-in, the send-off — and never inside the
+hypnosis audio, where eyes are closed anyway.
 
 ---
 
 ## 1. The shared skeleton
 
-Every program is a **21-day arc in three Acts**, built from five asset types.
-(Pregame-Postgame bends this — see §2.)
+Every program: **9 audio tracks + 3 short videos**, run as a **14-day arc in
+two Acts**.
 
-Why 21 days: long enough for spaced repetition to consolidate and for a new
-pattern to stop feeling effortful; short enough that a majority can actually
-finish. Finishing matters more than thoroughness — a completed 21-day program
-outperforms an abandoned 60-day one.
+Why 14 days with this size: four Sittings can't honestly carry 21 days;
+fourteen keeps each Sitting heard 3–4 times (the repetition that makes
+suggestion land) and doubles the completion rate of anything longer.
 
-### 1.1 Asset types
+### 1.1 The parts
 
-| Part | What it is | Length | Count per program |
+| Part | What it is | Length | Count |
 |---|---|---|---|
-| **Walk-ins** (video, on camera) | Welcome + expectation-setting. Your pre-talk: control, secrets, stuck. The pre-talk is functional hypnosis prep, not marketing. | 3 min | 1 per program + 1 shared "How this works" (4 min) |
-| **Sittings** (audio, core hypnosis) | Full sessions. Eyes closed, seated or lying down. | 15–20 min | 7 (First Sitting + 5 themed + The Keeper) |
-| **Encores** (audio, boosters) | Condensed re-inductions using the anchor trained in the First Sitting. Daily maintenance. | 4–6 min | 3 |
-| **Standbys** (audio, situational) | In-the-moment tracks, safe with eyes open, used at the point of trigger. | 2–4 min | 2 |
-| **Check-ins** (video, on camera) | You, talking to them at the end of Act I and Act II. Not hypnosis — coaching presence. This is where "buyers get ME" is felt most. | 2 min | 2 |
-| **Send-off** (video, on camera) | Completion. Plays once, when the arc is done. | 2 min | 1 |
+| **Sittings** (audio, core) | Full hypnosis sessions. Eyes closed. The last one is always **The Keeper**. | 15 min | 4 (3 + Keeper) |
+| **Encores** (audio, boosters) | Condensed re-entries using the anchor trained in Sitting 1. The busy-day and month-six format. | 4–6 min | 3 |
+| **Standbys** (audio, situational) | Eyes-open tracks for the trigger moment. Pinned, never locked. | 2–4 min | 2 |
+| **Walk-in** (video) | Welcome + the pre-talk (control, secrets, stuck). Functional hypnosis prep. | 3 min | 1 |
+| **Check-in** (video) | You, at day 7. Coaching presence, not hypnosis. | 90 sec | 1 |
+| **Send-off** (video) | Plays once at completion, unlocks The Keeper. | 90 sec | 1 |
 
-Per-program totals: **~2h15m audio + ~10 min program video**, plus the shared
-4-minute orientation video.
-
-Why 7 Sittings and not 21: each Sitting is heard 3–4 times across the arc.
-Repetition is the mechanism — a suggestion lands deeper on the third hearing
-than a novel one lands on the first. Seven keeps novelty alive week to week
-without diluting repetition.
-
-Why Encores exist: the First Sitting trains a re-entry anchor (breath + cue).
-Encores cash that anchor in — 5 minutes instead of 20. They are what makes
-daily practice survivable on busy days, and they are what the buyer still
-uses in month six.
-
-Why Standbys are separate from Encores: an Encore maintains state on
-schedule; a Standby interrupts a pattern at the trigger. Different moment,
-different design, different shelf in the room.
+Per program: **~75–80 min audio + ~6 min video.**
+Plus one shared 4-min "How this works" orientation video across all four.
 
 ### 1.2 The arc
 
-- **Act I — Learn the state (days 1–7).** First Sitting daily for days 1–3
-  (train the induction and the anchor), then Sittings 1–2 on alternating
-  days. Standbys unlock day 1 — emergencies don't wait for curriculum.
-  Check-in video at day 7.
-- **Act II — Rewire the pattern (days 8–14).** Sittings 3–5 carry the
-  program-specific change work, alternating with earlier Sittings. Daily
-  listening, ~15 min. Check-in at day 14.
-- **Act III — Own it (days 15–21).** Deliberate weaning: Encores become the
-  daily default, full Sittings drop to 3 per week, self-cued practice is
-  pushed. The program's last job is to make itself unnecessary.
-- **Done:** Send-off plays, **The Keeper** unlocks — one 20-minute evergreen
-  Sitting recorded as the forever track — and the room opens (§4).
+- **Act I — Learn the state (days 1–7).** Sitting 1 trains the induction
+  and the re-entry anchor; daily listening alternates Sittings 1–2 with
+  Encores. Standbys live from minute one. Check-in video at day 7.
+- **Act II — Own the change (days 8–14).** Sitting 3 carries the deepest
+  change work; Encores become the daily default by design — the program's
+  last job is to make itself unnecessary.
+- **Done:** Send-off plays, **The Keeper** unlocks — the forever track.
 
-Why Acts: three named phases give the buyer a story of where they are, and
-the stage language is yours.
+### 1.3 Unlocking, simplified
+
+Everything is open from day 1 **except The Keeper**. The Listening Map tells
+them what to play when; adults with a one-page protocol don't need
+drip-locks, and open content makes offline delivery (§5) trivial. The Keeper
+stays gated because completion needs one real reward.
 
 ---
 
 ## 2. Where each program deviates
 
-Brand rule first: **all four share the identical skeleton and part names.**
-A buyer who finishes one program already knows how to use the next; that is
-the cheapest cross-sell you will ever build. Deviations below are weightings
-inside the skeleton, not new shapes. Pregame-Postgame is the one sanctioned
-structural exception.
+Brand rule: **all four share identical counts and part names** (4 + 3 + 2 +
+Keeper-last). Deviation is in what each slot is assigned to, not in shape.
+A buyer who finishes one program already knows how to use the next.
 
-### 2.1 Pregame-Postgame — a toolkit, not an arc
+### 2.1 FOMO — the reference implementation
 
-Used around events, forever. A 21-day daily curriculum is the wrong shape.
-
-- **Act I only — Training Week (7 days):** First Sitting + 2 Sittings
-  (install the pregame state, install the postgame release). One check-in.
-- **Then the toolkit, which is the product.** Standbys expand from 2 to 6,
-  organized by time horizon:
-  - *Pregame:* Night Before (12 min) · One Hour Out (8 min) · Final Five
-    (4 min, eyes open, usable in a hallway).
-  - *Postgame:* The Debrief (10 min) · The Wind-Down / sleep version
-    (20 min) · Quick Reset (4 min, between back-to-back events).
-- Encores: 2, for non-event days (keep the state trained between events).
-- The Keeper: unlocks after the buyer's first full event cycle (logs one
-  pregame + one postgame use), not after a calendar date.
-- Sittings: 4 total (First + 2 training + Keeper) instead of 7.
-
-Why: the value here is reliability at T-minus-one-hour, not transformation
-over three weeks. Structure should mirror when it is used.
+- Sittings: First Sitting (state + anchor) · Enough-ness · Timeline Trust ·
+  The Keeper.
+- Encores: morning · night · **The Restart** (shame-free lapse reset —
+  folded into the Encore slot to hold the count).
+- Standbys: *Seeing the Story* (2 min, mid-feed) · *The Decline* (3 min,
+  before/after saying no).
 
 ### 2.2 Stop Doomscrolling — Standbys are load-bearing
 
-Compulsion programs live or die at the moment of the reach.
+- Sittings: First Sitting · Urge-Surfing · The Replacement Ritual ·
+  The Keeper.
+- Encores: morning · night · **The Restart**.
+- Standbys: *Phone in Hand* (2 min, eyes open, at the moment of the reach)
+  · *The Put-Down* (3 min, bedtime disengage).
+- Protocol is trigger-keyed, not clock-keyed: daily listening is prescribed
+  for the buyer's worst scroll window, named in the quick-start.
 
-- Standbys (2, both unlocked day 1, pinned):
-  - *Phone in Hand* — 2 min, eyes open, used at the exact moment of the
-    urge or mid-scroll.
-  - *The Put-Down* — 3 min, the bedtime disengage.
-- Protocol is trigger-keyed, not clock-keyed: the daily Sitting is
-  prescribed for the buyer's worst scroll window (identified in the
-  quick-start), because rehearsing the new pattern adjacent to the trigger
-  beats rehearsing it at a comfortable hour.
-- Sitting themes across the arc: urge-surfing, boredom tolerance,
-  the replacement ritual, identity ("someone whose attention is his own").
-- Adds one extra track: **The Restart** (6 min) — a shame-free relapse
-  reset. Compulsion work predicts lapses; a program that pretends otherwise
-  loses the buyer at the first one.
+### 2.3 Pregame-Postgame — same shape, mapped to event moments
 
-### 2.3 FOMO — same shape as Doomscrolling, emotion-keyed
+The toolkit lives inside the standard slots:
 
-- Standbys:
-  - *Seeing the Story* — 2 min, for the moment of watching others' posts.
-  - *The Decline* — 3 min, before or after saying no to something.
-- Sitting themes: enough-ness, choosing over drifting, solitude vs.
-  aloneness, timeline trust (this is your life-timelines material as
-  change-work rather than content).
-- Also gets **The Restart** (record a FOMO-specific take; same design).
-- Otherwise: pure skeleton. FOMO is the reference implementation.
+- Sittings: First Sitting (training) · *The Night Before* (pregame, 15 min)
+  · *The Wind-Down* (postgame/sleep, 15 min) · The Keeper.
+- Encores: *One Hour Out* (6 min) · *Quick Reset* (4 min, between events) ·
+  maintenance Encore for non-event weeks.
+- Standbys: *Final Five* (3 min, eyes open, hallway-usable) · *The Debrief*
+  (4 min, immediately after).
+- The Keeper unlocks after one full event cycle (a pregame play + a
+  postgame play), not a calendar date.
 
-### 2.4 Language Learning — paired to study, honest about mechanism
+### 2.4 Language Learning — Encores become study bookends
 
-Hypnosis here supports the learner, not the vocabulary: speaking fearlessness,
-attention quality, consistency, willingness to sound wrong. The structure
-must encode that honesty — it is also your credibility (five languages,
-learned, on record).
+Honest mechanism: hypnosis supports the learner (fearlessness, attention,
+consistency), not the vocabulary. That honesty is your credibility — five
+languages, learned, on record — and the Walk-in leads with it.
 
-- **7-day install arc** (Act I only, like Pregame-Postgame): First Sitting +
-  2 Sittings (fearless-speaker identity, open-ear attention).
-- **Then paired use, ongoing:** Encores are redesigned as study bookends —
-  *Before Study* primer (5 min) and *After Study* consolidation (8 min, plus
-  a 15-min sleep variant). The program attaches to their study schedule
-  instead of owning a calendar.
-- Standby: *Before the Conversation* — 3 min, eyes open, used in the minute
-  before speaking with a human.
-- The Keeper: unlocks after 10 logged paired uses.
-- Sittings: 5 total (First + 2 install + 1 deep monthly + Keeper).
+- Sittings: First Sitting · Fearless Speaker · Open Ear (attention/immersion)
+  · The Keeper.
+- Encores: *Before Study* (5 min primer) · *After Study* (6 min
+  consolidation) · *After Study — sleep variant* (15 min; the one Encore
+  allowed to run long).
+- Standbys: *Before the Conversation* (3 min, the minute before speaking to
+  a human) · *After the Mistake* (2 min, right after the embarrassing error).
+- Arc: 7-day install, then ongoing paired use. The Keeper unlocks after 10
+  logged bookend uses.
 
 ---
 
 ## 3. The non-audio layer
 
-One rule: **if it isn't operational, it doesn't ship.** No workbooks, no
-journals, no "science of hypnosis" PDF — the walk-in video does that job.
+Rule: **if it isn't operational, it doesn't ship.**
 
-Every program includes exactly one printed/printable page, two sides:
+One printable page per program, two sides:
 
-- **Side A — Quick Start:** what to do in the first 24 hours. Three steps,
-  no more.
-- **Side B — The Listening Map:** the 21-day protocol as a single calendar
-  grid (or the toolkit map, for Pregame-Postgame). Which track, which day,
-  which trigger.
+- **Side A — Quick Start:** first 24 hours, three steps.
+- **Side B — The Listening Map:** the 14-day protocol (or event map) as one
+  grid. Which track, which day, which trigger.
 
-Program-specific second sheet only where it is genuinely operational:
+One program-specific sheet only where genuinely operational:
 
-- Doomscrolling: **The Environment** — five phone-settings changes made
-  before the First Sitting. (Environmental design is half the result.)
-- Pregame-Postgame: **Run of Show** — a card mapping each Standby to its
-  T-minus/T-plus time.
-- Language Learning: **The Pairing Guide** — how to bolt the bookends onto
-  any study method.
+- Doomscrolling: **The Environment** — five phone-settings changes before
+  Sitting 1.
+- Pregame-Postgame: **Run of Show** — each track mapped to T-minus/T-plus.
+- Language Learning: **The Pairing Guide** — bolting bookends onto any
+  study method.
 - FOMO: none. Proof the rule is real.
 
-Progress tracking lives in the listening room UI (§4), never in a PDF.
+Progress lives in the listening room UI, never in a PDF.
 
 ---
 
@@ -191,155 +155,159 @@ Progress tracking lives in the listening room UI (§4), never in a PDF.
 
 One page per program. Dark, calm, your face present, one obvious action.
 
-### Layout, top to bottom
+1. **Header:** program title, portrait, progress line ("Act II · Day 9").
+2. **Today card:** the single track the Listening Map prescribes today, one
+   large play button. Kills choice paralysis — the main way self-guided
+   programs die.
+3. **Standbys shelf:** pinned, labeled by moment ("Phone in hand?"), never
+   by track number.
+4. **The Acts:** every Sitting and Encore listed, all playable, with the
+   Map's day markers shown inline.
+5. **The Keeper:** visible from day 1, locked, no note beyond "Opens when
+   you finish." The one mystery.
 
-1. **Header:** program title, your portrait, progress line — "Act II · Day 9".
-2. **Today card:** the single track prescribed for today, with one large
-   play button. This kills choice paralysis, which is the main way
-   self-guided programs die.
-3. **Standbys shelf:** pinned, always visible, always unlocked. Labeled by
-   moment ("Phone in hand?"), not by track number.
-4. **The Acts:** three sections listing every Sitting and Encore. Locked
-   items are visible with plain unlock notes ("Opens after Sitting 2").
-   Visible-but-locked does two jobs: day-1 substance ("look how much is
-   here") and forward pull.
-5. **The Keeper:** shown from day 1, locked, no unlock note beyond
-   "Opens when you finish." Let it be the one mystery.
-
-### Sequencing
-
-- **First run: completion-gated with minimum spacing.** A Sitting unlocks
-  the next only after being played through, and never more than two
-  Sittings unlock per day. Hypnosis is consolidated by spacing; a binge is
-  a refund waiting to happen. Say why in the UI in one line.
-- **After completion: the room opens.** Everything unlocked, forever,
-  re-runnable in any order. They bought it once; after the arc, it's theirs
-  without ceremony.
-
-### Day 1 vs Day 10 vs Done
-
-- **Day 1:** Walk-in video front and center, First Sitting as the Today
-  card, Standbys live, two Acts of visible locked material below.
-- **Day 10:** Today card mid-Act II, check-in #1 already watched, roughly
-  half the room open, streak line quietly showing days practiced (count
-  practice, never shame gaps).
-- **Done:** Send-off plays once, The Keeper unlocks, room state changes
-  visibly (locks gone, arc collapses into a clean library). Completion
-  should feel like being handed the keys, not like a certificate.
+Day 1: Walk-in front and center, Sitting 1 as the Today card, Standbys
+live. Day 10: Today card mid-Act II, check-in watched, streak line counting
+practice (never shaming gaps). Done: Send-off plays once, Keeper unlocks,
+locks disappear — handed the keys, not a certificate.
 
 ---
 
-## 5. Recording manifest
+## 5. Delivery: Stripe → phone, zero friction
 
-### 5.1 Shared assets — record once, use in all four
+This is the UX that decides whether the product feels premium. Design
+target: **from "payment succeeded" to "audio playing on iPhone" in under 60
+seconds, and offline on a plane a week later.**
+
+### 5.1 The purchase path
+
+1. `theamericanhypnotist.com/offer` → **Stripe Checkout / Payment Link**
+   (Stripe hosted; Apple Pay enabled — on iPhone most buyers will pay with
+   Face ID in one sheet).
+2. Success URL lands them **already inside their Listening Room** (session
+   claimed from the Stripe session id — no signup form between payment and
+   audio).
+3. Simultaneously, one email: "Your Listening Room is open" with a
+   **magic link**. That link IS the account. **No passwords, ever.**
+   A password screen between a buyer and a purchased meditation is a
+   support ticket factory.
+
+### 5.2 Getting it onto the iPhone — two doors, both built day 1
+
+**Door 1 — the room itself, installable (canonical experience).**
+The listening room is a mobile-first web app that behaves like a native one:
+
+- "Add to Home Screen" prompt built into the room (installed PWA: full
+  screen, your icon, no browser chrome).
+- **Save offline** button per track and one "Save all" per program —
+  service worker + cached audio. ~80 MB per program; state the number in
+  the UI so it feels deliberate.
+- Lock-screen artwork, scrubbing, and background playback via the Media
+  Session API — it controls like a podcast app.
+- This is also the dress rehearsal for the native app: same room, same
+  entitlements, wrapped later. Selling on Stripe web and delivering
+  through a player app keeps Apple's 30% out of the picture.
+
+**Door 2 — a private podcast feed (the zero-engineering-risk path).**
+Every buyer gets a personal, tokenized feed URL with one tap: **"Listen in
+Apple Podcasts."**
+
+- Native download, offline, lock-screen, CarPlay, background — Apple
+  maintains that UX, not you.
+- Tracks appear in program order; The Keeper drops into the feed at
+  completion.
+- Tokenized per-buyer URLs make sharing traceable and revocable.
+- Ship this even after the room is perfect: some buyers live in their
+  podcast app, and it costs one feed generator.
+
+**Fallback — plain MP3 downloads.** A quiet "Download files" link per
+program (zip + per-track). Never the featured path, always available:
+"forever" has to survive your website.
+
+### 5.3 What this means for structure
+
+- Open-content unlocking (§1.3) is what makes offline work: locked drip
+  content can't be pre-downloaded. One gated track (The Keeper) is the
+  right amount of ceremony.
+- Videos stay in the room (and the feed, as optional video episodes). The
+  audio must be self-sufficient for someone who never watches — the
+  walk-in's pre-talk essentials get a 60-second audio echo at the top of
+  Sitting 1.
+- Filenames and ID3 tags are brand surfaces: artwork, program name, part
+  names (Sitting · Encore · Standby) all set — the tracks will live in
+  Files, Podcasts, and car screens.
+
+---
+
+## 6. Recording manifest
+
+### 6.1 Shared — record once
 
 | Asset | Type | Length | Notes |
 |---|---|---|---|
-| "How this works" orientation | Video | 4 min | The one shared video: what hypnosis is, how to sit, the three misconceptions. Evergreen — keep program names out of it. |
-| Induction master architecture | Audio (script skeleton) | — | One induction + anchor-training design reused in every First Sitting. Re-voice it per program (voice continuity within a program matters); write it once. |
-| Exit/awakening architecture | Audio (script skeleton) | — | Same: design once, voice per program. |
-| Music/ambience beds | License | — | One palette across all four. Sonic brand coherence. |
+| "How this works" orientation | Video | 4 min | The one shared video. Evergreen; no program names. |
+| Induction + anchor architecture | Script skeleton | — | Design once; voice it fresh inside each program's Sitting 1. |
+| Exit/awakening architecture | Script skeleton | — | Same. |
+| Music/ambience beds | License | — | One palette across all four programs. |
 
-### 5.2 Per-program manifest
-
-**FOMO and Stop Doomscrolling (full skeleton), each:**
+### 6.2 Per program (uniform)
 
 | # | Asset | Type | Length |
 |---|---|---|---|
 | 1 | Walk-in | Video | 3 min |
-| 2 | First Sitting | Audio | 20 min |
-| 3–7 | Sittings 1–5 | Audio | 15–18 min each |
-| 8–10 | Encores ×3 | Audio | 4–6 min each |
-| 11–12 | Standbys ×2 | Audio | 2–4 min each |
-| 13 | The Restart | Audio | 6 min |
-| 14 | The Keeper | Audio | 20 min |
-| 15–16 | Check-ins ×2 | Video | 2 min each |
-| 17 | Send-off | Video | 2 min |
+| 2–4 | Sittings 1–3 | Audio | 15 min each |
+| 5 | The Keeper | Audio | 15 min |
+| 6–8 | Encores ×3 | Audio | 4–6 min (Language: one 15-min sleep variant) |
+| 9–10 | Standbys ×2 | Audio | 2–4 min |
+| 11 | Check-in | Video | 90 sec |
+| 12 | Send-off | Video | 90 sec |
 
-≈ 2h20m audio + 9 min video per program.
+≈ **80 min audio + 6 min video per program.**
 
-**Pregame-Postgame:**
+### 6.3 Batch plan
 
-| # | Asset | Type | Length |
-|---|---|---|---|
-| 1 | Walk-in | Video | 3 min |
-| 2 | First Sitting | Audio | 20 min |
-| 3–4 | Training Sittings ×2 | Audio | 15–18 min each |
-| 5–10 | Standbys ×6 (Night Before 12m · One Hour 8m · Final Five 4m · Debrief 10m · Wind-Down 20m · Quick Reset 4m) | Audio | as listed |
-| 11–12 | Encores ×2 | Audio | 4–6 min each |
-| 13 | The Keeper | Audio | 20 min |
-| 14 | Check-in ×1 | Video | 2 min |
-| 15 | Send-off | Video | 2 min |
+- **1 video day:** all 13 on-camera pieces (4 walk-ins, 4 check-ins, 4
+  send-offs, 1 orientation). Everything under 4 minutes; one setup.
+- **2 audio days:** two programs per day (~80 min finished audio each).
+  Sequence each program Sitting 1 → Keeper → shorts so your voice settles
+  into its register.
+- Beds mixed in post from the shared palette.
 
-≈ 2h15m audio + 7 min video.
-
-**Language Learning:**
-
-| # | Asset | Type | Length |
-|---|---|---|---|
-| 1 | Walk-in (leads with the five-languages story) | Video | 3 min |
-| 2 | First Sitting | Audio | 20 min |
-| 3–4 | Install Sittings ×2 | Audio | 15–18 min each |
-| 5 | Deep monthly Sitting | Audio | 18 min |
-| 6–8 | Study bookends: Before Study 5m · After Study 8m · After Study sleep variant 15m | Audio | as listed |
-| 9 | Standby: Before the Conversation | Audio | 3 min |
-| 10 | The Keeper | Audio | 20 min |
-| 11 | Check-in ×1 | Video | 2 min |
-| 12 | Send-off | Video | 2 min |
-
-≈ 2h audio + 7 min video.
-
-### 5.3 Batch plan
-
-- **1 video day:** all ~16 on-camera pieces across four programs, one setup,
-  one wardrobe per program if you want visual separation. Every video is
-  under 4 minutes; this is one comfortable day.
-- **4 audio days:** one program per day, sequenced First Sitting → Sittings
-  → Keeper → shorts, so your voice settles into each program's register and
-  stays consistent within it.
-- Record audio before final music mix; beds are added in post from the
-  shared palette.
-
-Grand total across all four: **~9 hours of finished hypnosis audio,
-~35 minutes of video.**
+Grand total: **~5.5 hours finished audio, ~28 minutes video.** One video
+day, two audio days, one mix pass. This is a two-week production, not a
+two-month one.
 
 ---
 
-## 6. Naming and tiering
+## 7. Naming and tiering
 
-The part names are stage words. You are a performer; the vocabulary should
-be unmistakably yours and still self-explanatory on first contact.
+Stage words, self-explanatory on first contact:
 
 | Part | Name | Why |
 |---|---|---|
-| Member area | **The Listening Room** | Already your vision; keep it. |
-| Core sessions | **Sittings** | A sitting is reserved time with a person — portrait language. It is the face-first brand in one word, and it quietly instructs posture. |
-| Boosters | **Encores** | A short return of the performance, by demand. Says "small repeat of the real thing" without a fitness word. |
-| Situational tracks | **Standbys** | Theater cue language — "standing by." Exactly what these tracks do: wait in the wings until the moment. |
-| Program phases | **Act I / II / III** | Stage-native, gives the arc a story. |
-| Relapse track | **The Restart** | Plain and shame-free; cleverness would sting here. |
-| Final track | **The Keeper** | The one you keep forever. Doubles as the completion reward. |
-| Check-in / Walk-in / Send-off | as named | Functional names for the video layer; the warmth is in the footage, not the label. |
+| Member area | **The Listening Room** | Already your vision. |
+| Core sessions | **Sittings** | Reserved time with a person — portrait language. Face-first in one word; quietly instructs posture. |
+| Boosters | **Encores** | A short return of the performance, by demand. |
+| Situational tracks | **Standbys** | Theater cue language — waiting in the wings until the moment. |
+| Phases | **Act I / Act II** | Stage-native; gives the arc a story. |
+| Lapse reset | **The Restart** | Plain and shame-free; cleverness would sting here. |
+| Final track | **The Keeper** | The one you keep forever; doubles as the completion reward. |
 
-**One structure, four programs.** Identical skeleton, identical vocabulary,
-identical room layout — with Pregame-Postgame (toolkit) and Language
-Learning (paired use) as documented weightings inside that system. Coherence
-is the compounding asset: it makes the second purchase feel like coming back
-to a place they already know, and it makes your production, your app, and
-your support surface one system instead of four.
+**One structure, four programs.** Identical counts, vocabulary, and room
+layout everywhere; deviations are slot assignments (§2). Coherence makes the
+second purchase feel like coming back to a place they know, and keeps room,
+feed, app, and production one system instead of four.
 
-No pricing tiers inside a program. One price, whole room, forever. Upsells
-inside a purchased program would spend the trust the face-first brand is
-built on.
+No tiers inside a program. One price, whole room, forever. Upsells inside a
+purchased program would spend the trust the face-first brand runs on.
 
 ---
 
-## Open decisions (not blocking structure)
+## Open decisions (not blocking)
 
-1. Whether The Restart is also worth adding to Language Learning (missed
-   study weeks are the same psychology as lapses).
-2. Completion-unlock telemetry for Pregame-Postgame and Language Learning
-   ("first event cycle," "10 paired uses") — needs light usage logging in
-   the listening room.
-3. Whether check-ins eventually become personalized (recorded per cohort or
-   season) — structure supports swapping them without touching audio.
+1. Private-feed provider vs. self-hosted feed generator (both fine; decide
+   at build time).
+2. Whether Pregame-Postgame's Keeper telemetry ("one event cycle") is worth
+   the logging, or a plain 7-day timer is honest enough.
+3. Chinese/French/Spanish/Portuguese versions: the uniform skeleton makes
+   each translation a re-voicing, not a redesign — sequencing decision only.
