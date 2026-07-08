@@ -3,6 +3,42 @@
 Recovery sweep for the stuck tab ("Recover previous session work",
 `session_0166Q6JQ6AxB3iJ8dzZ1tdnp`). **Result: no work was lost.**
 
+## 0. THE STUCK TAB'S ACTUAL WORK — website repo `edmund-z/A` ✅
+
+The stuck session was working on **theamericanhypnotist.com** (private repo
+`edmund-z/A`, Vercel project "a"). Every commit was pushed to GitHub and
+deployed; the last push landed today at ~16:43 UTC. Nothing is trapped in
+the container.
+
+Branches:
+- `claude/setup-nextjs-tailwind-6DRGU` — production branch (site is current,
+  latest merge `65ba32e` "mobile LCP fix + photo compression")
+- `claude/recover-previous-session-77ht6r` — the session's dev branch
+- `flow-preview` — the funnel-flow preview (declaration fork, blog return
+  link, /offer scaffold, home "What I Offer" door), deliberately kept off
+  production; preview at
+  `a-git-flow-preview-edmund-zs-projects.vercel.app`
+
+What it shipped today (all pushed, newest first):
+1. `9b41439` Sync perf fixes into flow-preview
+2. `65ba32e` → prod: mobile LCP fix (belief popup image preload, hero reel
+   deferred) + photos 74MB → 5MB; throttled LCP 36.9s → 1.0s
+3. `a70371c` CLAUDE.md notes: flow-preview workflow + product strategy
+   (a new session on repo A auto-loads this context)
+4. `bc64f40` Flow preview v1: declaration two-door finale (5 locales),
+   blog return link, /offer scaffold (4 cards, noindex), home single
+   "What I Offer" door (5 locales)
+5. `8150a02` → prod: /resources rework (premium section removed),
+   meditations now embed YouTube uploads, /about "What I Believe" band
+   → /declaration (5 locales), /publish footnote
+6. `657fb33` Web posts public index file (fixes river missing web posts)
+7. `4b3f905` Blob auth via OIDC store probe
+8. `9aef997` Blog masthead/sidebar name: The American Hypnotist
+9. `79a9e86` Posthaven-style blog: river, archive, upvotes, shares,
+   /publish desk with Resend broadcast to subscribers
+10. `0e4338b` Minimalist text-first blog pass (samaltman-style)
+11. `a924a29` Removed visible AEO pages, kept llms.txt layer
+
 ## 1. hypnosislogger — code fully pushed and deployed ✅
 
 The session's app work lives in **`edmund-z/hypnosislogger`** on branch
